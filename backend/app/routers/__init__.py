@@ -1,0 +1,31 @@
+from app.routers import (
+    achievements,
+    analytics,
+    analyze,
+    auth,
+    calendar,
+    challenges,
+    dashboard,
+    foods,
+    goals,
+    meals,
+    recommendations,
+    reminders,
+    tracking,
+)
+
+__all__ = [
+    "achievements",
+    "analytics",
+    "analyze",
+    "auth",
+    "calendar",
+    "challenges",
+    "dashboard",
+    "foods",
+    "goals",
+    "meals",
+    "recommendations",
+    "reminders",
+    "tracking",
+]

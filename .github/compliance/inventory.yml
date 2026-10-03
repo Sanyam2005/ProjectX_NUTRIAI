@@ -1,0 +1,8 @@
+inventory:
+- source: DirectOwners
+  items:
+  - id: t-agrawalsa@microsoft.com
+  - id: t-sthakare@microsoft.com
+  - id: t-paditya@microsoft.com
+  - id: t-vkumawat@microsoft.com
+  isProduction: false
